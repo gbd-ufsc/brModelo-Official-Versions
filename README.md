@@ -1,8 +1,8 @@
-# BrModelo
+# brModelo
 
-A database modeling teaching software.
+brModelo is a free tool to support the teaching of relational databases design.
 
-Here you will find the executable versions of BrModelo tool under development in the UFSC Database Group.
+Here you will find the executable versions of brModelo tool under development in the UFSC Database Group.
 
 Main functionalities: 
 
