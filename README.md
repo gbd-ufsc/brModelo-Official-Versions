@@ -1,5 +1,8 @@
 # BrModelo
-Here you will find the executable versions of BrModelo under development in the UFSC Database Group.
+
+A database modeling teaching software.
+
+Here you will find the executable versions of BrModelo tool under development in the UFSC Database Group.
 
 Main functionalities: 
 
